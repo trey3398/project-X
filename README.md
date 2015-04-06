@@ -2,5 +2,5 @@
 Spring Break Project 2015
 
 # Ideas
-- Physics equaon solver
+- Physics equation solver
 - 
